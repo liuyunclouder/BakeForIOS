@@ -1,5 +1,5 @@
 # BakeForIOS
-自己用的ios工程打包脚本，新开项目后只需要配置三个参数即可以一键打包
+自己用的ios工程打包脚本，新开项目后只需要配置以下参数即可以一键打包
 
 1. enter the project directory
 	
