@@ -16,3 +16,10 @@
 	APP_Provision="0824-deep-night"
 
 
+4. 蒲公英ukey
+
+	uKey="你的蒲公英uKey"
+
+5. 蒲公英apiKey
+
+	apiKey="你的蒲公英apiKey"
